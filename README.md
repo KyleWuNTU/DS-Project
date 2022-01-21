@@ -1,2 +1,2 @@
 # DS Project
-Co-work by Jeffery Bai, Peter Tsai and Jerry Chang
+Keep developing Data Science project, keep learning.
